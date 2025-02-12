@@ -25,7 +25,7 @@ Click Create Poll to start a new poll with 2 to 7 options.
 Use the dropdown menu (or the burger menu on mobile) to navigate between polls.
 Click the logo to go back to the main poll screen from the results view.
 
-![Alt text](https://github.com/bwoinextdoor/Dizplai-Challenge---JM/blob/main/Front%20End/src/assets/demo.gif)
+![Alt text](https://github.com/bwoinextdoor/Dizplai-Challenge---JM/blob/main/Front%20End/src/assets/demo.gif)  ![Alt text](https://github.com/bwoinextdoor/Dizplai-Challenge---JM/blob/main/Front%20End/src/assets/demo%202.gif)
 
 
 ## Features
