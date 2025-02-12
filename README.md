@@ -10,7 +10,7 @@ I designed the background image using figma creating files as vectors i manipula
 to reflect Dizplai theme colours. I would say the design is somehow similar to the original as 
 per pdf file containing instructions for the challenge. I started with low fidelity design 
 (paper design) to high fidelity using Figma.
-![Alt text] (https://github.com/bwoinextdoor/Dizplai-Challenge---JM/blob/main/Front%20End/src/assets/dizplai.JPG)
+![Alt text](https://github.com/bwoinextdoor/Dizplai-Challenge---JM/blob/main/Front%20End/src/assets/dizplai.JPG)
 
 ## Project Development Process
 For this project, I followed the Software Development Lifecycle (SDLC) using Jira for task management
