@@ -28,8 +28,7 @@ Click the logo to go back to the main poll screen from the results view.
 - Creating Poll Button with option of creating new polls and Cancel Button
 - Viewing votes
 - Timestamp
-- ![Alt text](./FrontEnd/src/assets/UI.png)
-- Front End/src/assets
+- ![Alt text](https://github.com/bwoinextdoor/Dizplai-Challenge---JM/blob/main/Front%20End/src/assets/UI.png)
 
 
 
