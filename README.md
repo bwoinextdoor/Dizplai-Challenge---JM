@@ -28,6 +28,8 @@ Click the logo to go back to the main poll screen from the results view.
 - Creating Poll Button with option of creating new polls and Cancel Button
 - Viewing votes
 - Timestamp
+- ![Alt text](assets/UI.png)
+
 
 
 ## Setup Instructions
