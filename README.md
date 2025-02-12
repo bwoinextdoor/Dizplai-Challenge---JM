@@ -65,7 +65,7 @@ app.js: Configures API routes and middleware.
    npm start
    The server runs on http://localhost:4000.
 
-### Frontend Setup
+### Frontend Structure
 components/PollSelector.jsx: Provides a dropdown for switching between polls.
 components/PollResults.jsx: Displays poll results after voting.
 components/CreatePollModal.jsx: Manages the creation of new polls.
