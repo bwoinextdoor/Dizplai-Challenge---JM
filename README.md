@@ -25,6 +25,7 @@ Once you've voted, the results will be displayed as percentages.
 Click Create Poll to start a new poll with 2 to 7 options.
 Use the dropdown menu (or the burger menu on mobile) to navigate between polls.
 Click the logo to go back to the main poll screen from the results view.
+
 ![Alt text](https://github.com/bwoinextdoor/Dizplai-Challenge---JM/blob/main/Front%20End/src/assets/demo.gif)
 
 
