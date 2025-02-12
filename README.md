@@ -1,7 +1,22 @@
 # Dizplai Challenge|
 
 ## Overview
-This Dizplain coding challenge provides a polling system where users can vote on active polls and see real-time results. It consists of a **React frontend** and a **Node.js/backend** with **SQLite** as the database.
+This Dizplain coding challenge provides a polling system where users can vote on active polls 
+and see real-time results. It consists of a **React frontend** and a **Node.js/backend** with 
+**SQLite** as the database.
+
+## Build Up
+I designed the background image using figma creating files as vectors i manipulated the colors 
+to reflect Dizplai theme colours. I would say the design is somehow similar to the original as 
+per pdf file containing instructions for the challenge. I started with low fidelity design 
+(paper design) to high fidelity using Figma.
+
+## Project Development Process
+For this project, I followed the Software Development Lifecycle (SDLC) using Jira for task management
+and Atlassian tools for team collaboration. The development process was organized into Scrum methodology,
+where I created detailed tickets to track tasks and progress. The cycle followed a 5-day sprint, allowing
+for efficient development and timely delivery of features. All changes and updates were carefully tracked, 
+with regular commits made to GitHub to ensure version control and proper documentation of the development process.
 
 ## How it works
 The active poll is shown on the screen. Choose an option and click Submit to cast your vote.
@@ -9,7 +24,6 @@ Once you've voted, the results will be displayed as percentages.
 Click Create Poll to start a new poll with 2 to 7 options.
 Use the dropdown menu (or the burger menu on mobile) to navigate between polls.
 Click the logo to go back to the main poll screen from the results view.
-
 
 
 ## Features
